@@ -1,0 +1,21 @@
+.img-rol_card {
+  position: absolute;
+  left: calc(50% - 37px);
+  top: calc(0% - 37px);
+}
+
+.slick-prev:before,
+.slick-next:before {
+  color: #1e1b4b;
+}
+
+.carrusel .slick-prev:before,
+.carrusel .slick-next:before {
+  color: #00000000;
+}
+
+@media screen and (max-width: 768px) {
+  body .img-company {
+    display: none;
+  }
+}

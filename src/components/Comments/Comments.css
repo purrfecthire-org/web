@@ -1,0 +1,33 @@
+.comments {
+  position: relative;
+  overflow: hidden;
+
+  --color-primary: #0a0856;
+}
+
+.comments:before {
+  content: "";
+  position: absolute;
+  bottom: -380px;
+  left: calc(50% - 408px);
+  width: 825px;
+  min-width: 646px;
+  height: 500px;
+  background: var(--color-primary);
+  z-index: -10;
+  border-radius: 100% 100%;
+}
+
+.slick-prev:before,
+.slick-next:before {
+  color: #1e1b4b;
+}
+
+.icon-md {
+  position: absolute;
+  left: calc(3% - 0px);
+  top: calc(0% - 0px);
+  width: 10%;
+  height: 10%;
+  color: var(--color-primary);
+}
