@@ -10,7 +10,7 @@ export const COMMENTS_CLIENTS_CANDIDATES_DATA: CardComment[] = [
   },
   {
     comment: "Purrfecthire accompanied me throughout my selection process, notifying me and reminding me of interview dates. I appreciate that they helped me find a position where I am happy and that meets my expectations.",
-    name: "Sebasthian Saldana",
+    name: "Sebasthian nSaldana",
     img: "https://media.licdn.com/dms/image/D4E03AQGvxD2tm7oo-Q/profile-displayphoto-shrink_800_800/0/1689990166577?e=1716422400&v=beta&t=kEUvN84_Kk82krzAQFI0QW3qypZj6IJkK-DolPI6Mlk",
     country: "México",
     role: "Accountant",
