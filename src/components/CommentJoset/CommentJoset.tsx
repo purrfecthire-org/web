@@ -16,8 +16,10 @@ export default function CommentJoset() {
             for personal growth and learning. The stimulating
             environment not only attracts a diverse array of
             individuals but also nurtures my dynamic
-            and curious nature."<br/>
-            <p className="poppins max-w-xl text-center text-gray-500 lg:text-left lg:max-w-md">-Jose B. Gómez, Product Manager.</p>
+            and curious nature."
+            <br/> 
+            <br/> Jose B. Gómez, 
+            Product Manager.
 
           </p>
 
