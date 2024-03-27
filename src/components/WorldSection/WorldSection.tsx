@@ -14,7 +14,7 @@ export default function WorldSection() {
             the LATAM, the United States, and Europe.
           </p>
           <p className="poppins mt-4 max-w-xl font-semibold text-center text-gray-500 lg:text-left lg:max-w-md">
-            Mexico, Colombia, Chile, Emiratos Árabes, Croatia, Germany, Sweden,
+            Mexico, Colombia, Chile, UAE, Croatia, Germany, Sweden,
             United States, Brazil, Argentina, United Kingdom.
           </p>
         </div>
