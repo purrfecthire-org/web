@@ -17,7 +17,7 @@ export default function CommentJoset() {
             environment not only attracts a diverse array of
             individuals but also nurtures my dynamic
             and curious nature."<br/>
-            <small className="poppins max-w-xl text-center text-gray-500 lg:text-left lg:max-w-md">-Jose B. Gómez, Product Manager.</small>
+            <p className="poppins max-w-xl text-center text-gray-500 lg:text-left lg:max-w-md">-Jose B. Gómez, Product Manager.</p>
 
           </p>
 
