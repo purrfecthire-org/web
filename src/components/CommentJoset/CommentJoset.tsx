@@ -10,14 +10,17 @@ export default function CommentJoset() {
             Why work at Purrfect <span className="whitespace-nowrap">Hire?</span>
           </h1>
           <p className="poppins max-w-xl text-center text-gray-500 lg:text-left lg:max-w-md">
-            As a member of the founding team of Purrfect Hire, my
+            "As a member of the founding team of Purrfect Hire, my
             enthusiasm stems from contributing to the development of a
             multicultural team, where each day presents opportunities
             for personal growth and learning. The stimulating
             environment not only attracts a diverse array of
             individuals but also nurtures my dynamic
-            and curious nature.
+            and curious nature." <br />
+            <small className="poppins max-w-xl text-center text-gray-500 lg:text-left lg:max-w-md" > -Jose B. Gómez, Product Manager.</small>
+
           </p>
+
         </div>
         <div className="mb-14 lg:mb-0 lg:w-1/2">
           <div className="ml-auto flex justify-center lg:justify-end">
