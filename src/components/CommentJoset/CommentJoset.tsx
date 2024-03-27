@@ -18,9 +18,13 @@ export default function CommentJoset() {
           individuals but also nurtures my dynamic
           and&nbsp;curious&nbsp;nature.&quot;
           <br/> 
-          <br/> Jose B. Gómez, 
-          Product Manager.
+          <br/> 
+   
         </p>
+        <h3 className="poppins max-w-xl text-center text-gray-500 lg:text-left lg:max-w-md">
+        Jose B. Gómez, 
+          Product Manager.
+        </h3>
 
         </div>
         <div className="mb-14 lg:mb-0 lg:w-1/2">
