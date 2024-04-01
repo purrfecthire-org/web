@@ -65,5 +65,7 @@ export const COMMENTS_CLIENTS_CANDIDATES_DATA: CardComment[] = [
     company: "Trébol",
     time: "Client", // Representa 5 días transcurridos
   },
+
+  
   
 ];

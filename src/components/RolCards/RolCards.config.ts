@@ -78,5 +78,13 @@ export const jobPosition: JobPosition[] = [
     salary: "6.000 USD - 7.000 USD",
     skills: ["Netsuite", "Automation", "Implementation", "Leadership"],
     link: "https://docs.google.com/forms/d/e/1FAIpQLSeM8oGUFhxN0n9WzBP4m0-IK-99EMBe01pdljwvWJ2hbousQw/viewform"
+  },
+  {
+    title: "Chief of Staff Latam",
+    country: "Colombia",
+    modality: "Remote",
+    salary: "15.000 USD - 16.000 USD",
+    skills: [],
+    link: "https://docs.google.com/forms/d/e/1FAIpQLSeM8oGUFhxN0n9WzBP4m0-IK-99EMBe01pdljwvWJ2hbousQw/viewform"
   }
 ];
