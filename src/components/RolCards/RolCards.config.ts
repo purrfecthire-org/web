@@ -80,11 +80,11 @@ export const jobPosition: JobPosition[] = [
     link: "https://docs.google.com/forms/d/e/1FAIpQLSeM8oGUFhxN0n9WzBP4m0-IK-99EMBe01pdljwvWJ2hbousQw/viewform"
   },
   {
-    title: "Chief of Staff Latam",
-    country: "Colombia",
+    title: "Chief of Staff",
+    country: "Colombia - Bogotá",
     modality: "Remote",
     salary: "15.000 USD - 16.000 USD",
-    skills: [],
+    skills: ["MBA", "Mathematics", "Team Leadership", "Consulting"],
     link: "https://docs.google.com/forms/d/e/1FAIpQLSeM8oGUFhxN0n9WzBP4m0-IK-99EMBe01pdljwvWJ2hbousQw/viewform"
   }
 ];
