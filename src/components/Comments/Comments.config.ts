@@ -6,7 +6,7 @@ export const COMMENTS_CLIENTS_CANDIDATES_DATA: CardComment[] = [
     country: "Colombia",
     role: "Founder Engineer",
     company: "PONTE",
-    time: "Time to hired 26 days", // Representa 5 días transcurridos
+    time: "Time to hire 26 days", // Representa 5 días transcurridos
   },
   {
     comment: "Purrfecthire accompanied me throughout my selection process, notifying me and reminding me of interview dates. I appreciate that they helped me find a position where I am happy and that meets my expectations.",
@@ -15,7 +15,7 @@ export const COMMENTS_CLIENTS_CANDIDATES_DATA: CardComment[] = [
     country: "México",
     role: "Accountant",
     company: "Konta",
-    time: "Time to hired 11 days", // Representa 5 días transcurridos
+    time: "Time to hire 11 days", // Representa 5 días transcurridos
   },
   {
     comment: "I loved the process with Purrfect Hire! A process that understands the culture of companies and the personality of candidates allows cultural matches to be made from moment zero. In addition to that, candidates feel supported by a team that is attentive at every moment of the process.",
@@ -24,7 +24,7 @@ export const COMMENTS_CLIENTS_CANDIDATES_DATA: CardComment[] = [
     country: "Colombia",
     role: "Head of Growth",
     company: "Bolsiyo",
-    time: "Time to hired 11 days", // Representa 5 días transcurridos
+    time: "Time to hire 11 days", // Representa 5 días transcurridos
   },
   {
     comment: "I'm completely grateful with you. This has been an superb experience. I've never been in such a supportive process.",
@@ -33,7 +33,7 @@ export const COMMENTS_CLIENTS_CANDIDATES_DATA: CardComment[] = [
     country: "Colombia",
     role: "Customer Service Lead",
     company: "Konta",
-    time: "Time to hired 16 days", // Representa 5 días transcurridos
+    time: "Time to hire 16 days", // Representa 5 días transcurridos
   },
 
 
@@ -65,4 +65,5 @@ export const COMMENTS_CLIENTS_CANDIDATES_DATA: CardComment[] = [
     company: "Trébol",
     time: "Client", // Representa 5 días transcurridos
   },
+  
 ];
