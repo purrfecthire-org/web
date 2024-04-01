@@ -16,7 +16,7 @@ export const jobPosition: JobPosition[] = [
     link: "https://docs.google.com/forms/d/e/1FAIpQLSeM8oGUFhxN0n9WzBP4m0-IK-99EMBe01pdljwvWJ2hbousQw/viewform"
   },
   {
-    title: "Lider de marketing",
+    title: "Marketing and Growth Manager",
     country: "Colombia",
     modality: "Híbrido",
     salary: "2.800 USD - 3.100 USD",
