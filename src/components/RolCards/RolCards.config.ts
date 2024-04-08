@@ -88,19 +88,19 @@ export const jobPosition: JobPosition[] = [
     link: "https://docs.google.com/forms/d/e/1FAIpQLSeM8oGUFhxN0n9WzBP4m0-IK-99EMBe01pdljwvWJ2hbousQw/viewform"
   },
   {
-    title: "Chief of Staff23",
-    country: "Colombia - Bogotá",
-    modality: "Remote",
-    salary: "15.000 USD - 16.000 USD",
-    skills: ["MBA", "Mathematics", "Team Leadership", "Consulting"],
+    title: "Ejecutivo de Ventas",
+    country: "México",
+    modality: "Trabajo en sitio",
+    salary: "40,000 - 50,000 MXN",
+    skills: ["Sales", "Comercial", "Steel Market", "Strategy"],
     link: "https://docs.google.com/forms/d/e/1FAIpQLSeM8oGUFhxN0n9WzBP4m0-IK-99EMBe01pdljwvWJ2hbousQw/viewform"
   },
   {
-    title: "Chief of Staff2",
-    country: "Colombia - Bogotá",
-    modality: "Remote",
-    salary: "15.000 USD - 16.000 USD",
-    skills: ["MBA", "Mathematics", "Team Leadership", "Consulting"],
+    title: "Analista de Cadena de Suministro",
+    country: "México",
+    modality: "Trabajo en sitio",
+    salary: "30,000 MXN",
+    skills: ["Sales", "Negociation", "Data Analist", "Quality"],
     link: "https://docs.google.com/forms/d/e/1FAIpQLSeM8oGUFhxN0n9WzBP4m0-IK-99EMBe01pdljwvWJ2hbousQw/viewform"
-  }
+  },
 ];
