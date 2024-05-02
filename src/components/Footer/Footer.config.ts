@@ -25,7 +25,7 @@ export const FOOTER_LINKS = [
 export const FOOTER_CONTACT_INFO = {
   title: "Contact Us",
   links: [
-    { label: "For Companies", value: "sales@purrfecthire.com" },
+    { label: "For Companies", value: "daniel.aguirre@purrfecthire.com" },
     { label: "For Candidates", value: "hiring@purrfecthire.com" },
   ],
 };
