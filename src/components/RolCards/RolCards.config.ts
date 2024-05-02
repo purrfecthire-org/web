@@ -1,13 +1,5 @@
 export const jobPosition: JobPosition[] = [
   {
-    title: "Tax Director",
-    country: "Latam",
-    modality: "Remote",
-    salary: "6.000 USD - 8.000 USD",
-    skills: ["Taxes", "Transfer Pricing", "Tax Audits", "Finance"],
-    link: "https://docs.google.com/forms/d/e/1FAIpQLSeM8oGUFhxN0n9WzBP4m0-IK-99EMBe01pdljwvWJ2hbousQw/viewform"
-  },
-  {
     title: "Marketing and Growth Manager",
     country: "Colombia",
     modality: "Híbrido",
