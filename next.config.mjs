@@ -6,6 +6,7 @@ const nextConfig = {
     //basePath: '/web',
     output: "export",
     images: {
+        unoptimized: true, // Desactiva la optimización de imágenes
         remotePatterns: [
             {
               protocol: 'https',
