@@ -57,7 +57,7 @@ export default function NavBar() {
                 </a>
                 <a
   href="https://latam.purrfecthire.com/"
-  target="_blank"
+  target="_self"
   className="text-indigo-800 font-medium text-lg hover:bg-white rounded-lg p-2 flex items-center"
 >
   <img
@@ -129,10 +129,15 @@ export default function NavBar() {
                 className="text-indigo-800 font-medium text-lg block hover:bg-white rounded-lg p-2">
                 About
               </a>
+              <a
+                href="https://docs.google.com/forms/d/e/1FAIpQLSeM8oGUFhxN0n9WzBP4m0-IK-99EMBe01pdljwvWJ2hbousQw/viewform"
+                className="text-indigo-800 font-medium text-lg block hover:bg-white rounded-lg p-2">
+                Careers
+              </a>
 
 <a
   href="https://latam.purrfecthire.com/"
-  target="_blank"
+  target="_self"
   className="text-indigo-800 font-medium text-lg hover:bg-white rounded-lg p-2 flex items-center"
 >
   <img
