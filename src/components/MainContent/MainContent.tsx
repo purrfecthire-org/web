@@ -29,7 +29,7 @@ export default function MainContent() {
                   "https://calendly.com/daniel-aguirred/purrfect-hire-eng?month=2024-03"
                 )
               }>
-              Talk to Sales
+              Talk to sales
             </button>
           </div>
         </div>
