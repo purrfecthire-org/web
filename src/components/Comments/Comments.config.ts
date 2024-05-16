@@ -5,7 +5,7 @@ export const COMMENTS_CLIENTS_CANDIDATES_DATA: CardComment[] = [
     img: "https://media.licdn.com/dms/image/D4E03AQH0WXZ56bIAFA/profile-displayphoto-shrink_800_800/0/1703544619307?e=1716422400&v=beta&t=5mmA0DG626_3UO_YmjAIK60nq5xKy_MjqoKtX_us_MY",
     country: "Colombia",
     role: "Founder Engineer",
-    company: "PONTE",
+    company: "PONTE 🇺🇸",
     time: "Time to hire 26 days", // Representa 5 días transcurridos
   },
   {
@@ -14,7 +14,7 @@ export const COMMENTS_CLIENTS_CANDIDATES_DATA: CardComment[] = [
     img: "https://media.licdn.com/dms/image/D4E03AQGvxD2tm7oo-Q/profile-displayphoto-shrink_800_800/0/1689990166577?e=1716422400&v=beta&t=kEUvN84_Kk82krzAQFI0QW3qypZj6IJkK-DolPI6Mlk",
     country: "México",
     role: "Accountant",
-    company: "Konta",
+    company: "Konta 🇲🇽",
     time: "Time to hire 11 days", // Representa 5 días transcurridos
   },
   {
@@ -23,7 +23,7 @@ export const COMMENTS_CLIENTS_CANDIDATES_DATA: CardComment[] = [
     img: "https://media.licdn.com/dms/image/D4E03AQEG1UhURKoOCg/profile-displayphoto-shrink_800_800/0/1710771595672?e=1716422400&v=beta&t=Yur89VhNWWr-zDBZkFkCJmptv2mIDBweWhliVLSWexI",
     country: "Colombia",
     role: "Head of Growth",
-    company: "Bolsiyo",
+    company: "Bolsiyo 🇨🇴",
     time: "Time to hire 11 days", // Representa 5 días transcurridos
   },
   {
@@ -32,7 +32,7 @@ export const COMMENTS_CLIENTS_CANDIDATES_DATA: CardComment[] = [
     img: "https://media.licdn.com/dms/image/C5603AQHLi5iBU_pkmw/profile-displayphoto-shrink_800_800/0/1595694262517?e=1716422400&v=beta&t=w8z7GLSVg7lp1du4nc4_l6ScI-fD7O5R8Bl5HOwZdQQ",
     country: "Colombia",
     role: "Customer Service Lead",
-    company: "Konta",
+    company: "Konta 🇲🇽",
     time: "Time to hire 16 days", // Representa 5 días transcurridos
   },
 
@@ -44,7 +44,7 @@ export const COMMENTS_CLIENTS_CANDIDATES_DATA: CardComment[] = [
     img: "https://media.licdn.com/dms/image/D4D03AQH-Co5Tcn3aFw/profile-displayphoto-shrink_800_800/0/1703185394089?e=1716422400&v=beta&t=wiIZPo6LlXfTc-jT3xJllDgYxU_OE_qJT8TxSHqVwDI",
     country: "Argentina",
     role: "Sales Director",
-    company: "Ed-Machina",
+    company: "Ed-Machina 🇦🇷",
     time: "Client", // Representa 5 días transcurridos
   },
   {
@@ -53,7 +53,7 @@ export const COMMENTS_CLIENTS_CANDIDATES_DATA: CardComment[] = [
     img: "https://media.licdn.com/dms/image/C4D03AQFfc1Gs5AHBdQ/profile-displayphoto-shrink_800_800/0/1661192585705?e=1716422400&v=beta&t=iK8AHexMQBwzk_kDqpf0hsqZlE2tR0nguYhjFQlRal0",
     country: "EEUU",
     role: "Head of Customer Operations",
-    company: "OutDo",
+    company: "OutDo 🇺🇸",
     time: "Client", // Representa 5 días transcurridos
   },
   {
@@ -62,7 +62,7 @@ export const COMMENTS_CLIENTS_CANDIDATES_DATA: CardComment[] = [
     img: "/fabianTorres.jpg",
     country: "Colombia",
     role: "CEO",
-    company: "Trébol",
+    company: "Trébol 🇨🇴",
     time: "Client", // Representa 5 días transcurridos
   },
 
