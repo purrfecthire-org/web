@@ -1,35 +1,27 @@
 export const jobPosition: JobPosition[] = [
   {
-    title: "Marketing and Growth Manager",
-    country: "Colombia",
-    modality: "Híbrido",
-    salary: "2.800 USD - 3.100 USD",
-    skills: ["Marketing", "B2B", "Inbound", "Outbound"],
-    link: "https://docs.google.com/forms/d/e/1FAIpQLSeM8oGUFhxN0n9WzBP4m0-IK-99EMBe01pdljwvWJ2hbousQw/viewform"
-  },
-  {
-    title: "Operations Associate",
+    title: "Senior Sales Executive",
     country: "México",
-    modality: "Hybrid",
-    salary: "1.700 USD - 3.000 USD",
-    skills: ["Onboarding", "Automation", "go-to-market", "Account management"],
-    link: "https://docs.google.com/forms/d/e/1FAIpQLSeM8oGUFhxN0n9WzBP4m0-IK-99EMBe01pdljwvWJ2hbousQw/viewform"
+    modality: "Híbrido + disponibilidad para viajar",
+    salary: "1700 - 2200 USD",
+    skills: ["Optimización de procesos", "Integración de cadenas logisticas", "Relacionamiento con clientes"],
+    link: "https://forms.gle/dx35Pi5XzPYirbcF9"
   },
   {
-    title: "Tech Lead Full Stack Developer",
+    title: "Full Stack, frontend specialist",
     country: "Colombia",
     modality: "Remote",
-    salary: "4.000 USD - 5.000 USD",
-    skills: ["Python", "React JS", "Leadership", "AWS"],
-    link: "https://docs.google.com/forms/d/e/1FAIpQLSeM8oGUFhxN0n9WzBP4m0-IK-99EMBe01pdljwvWJ2hbousQw/viewform"
+    salary: "3200 USD",
+    skills: ["React", "Node.js", "MySQL", "AWS", "VERCEL", "Svelte", "TypeScript"],
+    link: "https://forms.gle/f63qmbZRPvY3oPSSA"
   },
   {
-    title: "Accounting Automation Lead",
+    title: "Full Stack Engineer",
     country: "Latam",
     modality: "Remote",
-    salary: "6.000 USD - 7.000 USD",
-    skills: ["Netsuite", "Automation", "Implementation", "Leadership"],
-    link: "https://docs.google.com/forms/d/e/1FAIpQLSeM8oGUFhxN0n9WzBP4m0-IK-99EMBe01pdljwvWJ2hbousQw/viewform"
+    salary: "-",
+    skills: ["REST APIs Python", "Next.js", "AWS", "Django REST", "Docker"],
+    link: "https://forms.gle/SM49cvgSG66YAmLq5"
   },
   {
     title: "Ejecutivo de Ventas de Acero",
@@ -37,6 +29,14 @@ export const jobPosition: JobPosition[] = [
     modality: "Trabajo en sitio",
     salary: "40,000 - 50,000 MXN",
     skills: ["Sales", "Comercial", "Steel Market", "Strategy"],
-    link: "https://docs.google.com/forms/d/e/1FAIpQLSeM8oGUFhxN0n9WzBP4m0-IK-99EMBe01pdljwvWJ2hbousQw/viewform"
+    link: "https://forms.gle/S7ogC5GsVhv94QKc8"
+  },
+  {
+    title: "Gerente de cadena de restaurantes",
+    country: "Colombia",
+    modality: "Presencial + disponibilidad para viajar",
+    salary: "$10.000 - 12.000 COP",
+    skills: ["Liderazgo", "Mercadeo", "Gestión gastronomica", "leer estados financieros"],
+    link: "https://forms.gle/w8ciWpYn6z7U3FYL8"
   },
 ];

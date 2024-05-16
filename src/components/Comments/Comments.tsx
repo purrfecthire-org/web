@@ -15,7 +15,7 @@ export default function Comments({ title, comments }: Coments) {
     infinite: true,
     speed: 500,
     slidesToShow: 3,
-    slidesToScroll: 0,
+    slidesToScroll: 1,
     responsive: [
       {
         breakpoint: 1300,

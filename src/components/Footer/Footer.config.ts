@@ -10,8 +10,14 @@ export const FOOTER_LINKS = [
   {
     title: "Learn More",
     links: [
+
+
       {
-        tittle: "About Purfect Hire",
+        tittle: "Terms and Conditions (To define)",
+        link: "",
+      },
+      {
+        tittle: "About Purrfect Hire",
         link: "#about-section",
       },
       {
