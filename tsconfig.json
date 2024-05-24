@@ -7,11 +7,13 @@
     "noEmit": true,
     "incremental": true,
     "esModuleInterop": true,
-    "module": "esnext",
+    "module": "commonjs", // Cambiado a "commonjs" para compilar a CommonJS
     "moduleResolution": "node",
     "resolveJsonModule": true,
     "isolatedModules": true,
     "jsx": "preserve",
+    "outDir": "./dist",
+
     "plugins": [
       {
         "name": "next"
@@ -23,7 +25,8 @@
     ".next/types/**/*.ts",
     "**/*.ts",
     "**/*.tsx",
-    "src/components/RolCards/RolCards.jsx"
+    "src/components/RolCards/RolCards.jsx",
+    "scripts/**/*.ts"
   ],
   "exclude": ["node_modules"]
 }
