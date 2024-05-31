@@ -22,7 +22,7 @@ export default function CommentJoset() {
    
         </p>
         <h3 className="poppins max-w-xl text-center text-gray-500 lg:text-left lg:max-w-md">
-        Jose B. Gómez, 
+        José B. Gómez, 
           Product Manager.
         </h3>
 
