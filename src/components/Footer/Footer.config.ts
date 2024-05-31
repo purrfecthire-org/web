@@ -17,7 +17,7 @@ export const FOOTER_LINKS = [
         link: "https://drive.google.com/file/d/1b3gi4lelrefD4CnZay4RZOZOiY1TwAM-/view?usp=sharing",
       },
       {
-        tittle: "About Purrfect Hire (TyCs)",
+        tittle: "About Purrfect Hire",
         link: "#about-section",
       },
       {
