@@ -13,11 +13,11 @@ export const FOOTER_LINKS = [
 
 
       {
-        tittle: "Terms and Conditions (To define)",
+        tittle: "Terms and Conditions",
         link: "https://drive.google.com/file/d/1b3gi4lelrefD4CnZay4RZOZOiY1TwAM-/view?usp=sharing",
       },
       {
-        tittle: "About Purrfect Hire",
+        tittle: "About Purrfect Hire (TyCs)",
         link: "#about-section",
       },
       {

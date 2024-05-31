@@ -41,7 +41,7 @@ export const COMMENTS_CLIENTS_CANDIDATES_DATA: CardComment[] = [
   {
     comment: "Thanks to the experience and industry knowledge that Purrfect Hire has, they got me the best candidates out there so the final selection was somehow easy.",
     name: "Camilo Rodríguez ",
-    img: "https://media.licdn.com/dms/image/D4D03AQH-Co5Tcn3aFw/profile-displayphoto-shrink_800_800/0/1703185394089?e=1716422400&v=beta&t=wiIZPo6LlXfTc-jT3xJllDgYxU_OE_qJT8TxSHqVwDI",
+    img: "https://media.licdn.com/dms/image/D4D03AQH-Co5Tcn3aFw/profile-displayphoto-shrink_100_100/0/1703185394089?e=1722470400&v=beta&t=WZo4oHSWMDS09GGMeCMKrx2RQKW5M1lYn4uX99sGYXU",
     country: "Argentina",
     role: "Sales Director",
     company: "Ed-Machina 🇦🇷",
@@ -50,7 +50,7 @@ export const COMMENTS_CLIENTS_CANDIDATES_DATA: CardComment[] = [
   {
     comment: "The people we've hired through Purrfect Hire not only continue working and adding value, but they've also been promoted to roles of greater responsibility due to how well they've adapted to our way of working and our culture.",
     name: "Micaela Crosta",
-    img: "https://media.licdn.com/dms/image/C4D03AQFfc1Gs5AHBdQ/profile-displayphoto-shrink_800_800/0/1661192585705?e=1716422400&v=beta&t=iK8AHexMQBwzk_kDqpf0hsqZlE2tR0nguYhjFQlRal0",
+    img: "https://media.licdn.com/dms/image/C4D03AQFfc1Gs5AHBdQ/profile-displayphoto-shrink_100_100/0/1661192585705?e=1722470400&v=beta&t=YS-LFi9GTJkzX5tdH-N9xAoFG9UGZjrfNY5FcYTVEpk",
     country: "EEUU",
     role: "Head of Customer Operations",
     company: "OutDo 🇺🇸",
