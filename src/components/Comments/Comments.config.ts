@@ -2,7 +2,7 @@ export const COMMENTS_CLIENTS_CANDIDATES_DATA: CardComment[] = [
   {
     comment: "The follow-up and support you provide to candidates throughout the process really stand out. Kudos to the entire Purrfect Hire team for the service delivered, and to my recruiter for being always caring and helpful!.",
     name: "Mackley Carmona",
-    img: "https://media.licdn.com/dms/image/D4E03AQH0WXZ56bIAFA/profile-displayphoto-shrink_800_800/0/1703544619307?e=1716422400&v=beta&t=5mmA0DG626_3UO_YmjAIK60nq5xKy_MjqoKtX_us_MY",
+    img: "https://media.licdn.com/dms/image/D4E03AQH0WXZ56bIAFA/profile-displayphoto-shrink_200_200/0/1703544619307?e=1722470400&v=beta&t=kZX2KpCIViNqncWx-ReimhHAu2VtXRYFJI9VuYDDOd4",
     country: "Colombia",
     role: "Founder Engineer",
     company: "PONTE 🇺🇸",
@@ -11,7 +11,7 @@ export const COMMENTS_CLIENTS_CANDIDATES_DATA: CardComment[] = [
   {
     comment: "Purrfecthire accompanied me throughout my selection process, notifying me and reminding me of interview dates. I appreciate that they helped me find a position where I am happy and that meets my expectations.",
     name: "Sebasthian Saldana",
-    img: "https://media.licdn.com/dms/image/D4E03AQGvxD2tm7oo-Q/profile-displayphoto-shrink_800_800/0/1689990166577?e=1716422400&v=beta&t=kEUvN84_Kk82krzAQFI0QW3qypZj6IJkK-DolPI6Mlk",
+    img: "https://media.licdn.com/dms/image/D4E03AQGvxD2tm7oo-Q/profile-displayphoto-shrink_200_200/0/1689990166577?e=1722470400&v=beta&t=pvd4_o-hQaI7lAAVHdYUHxj_jaFE-5MXJz1vjoCiRro",
     country: "México",
     role: "Accountant",
     company: "Konta 🇲🇽",
@@ -20,7 +20,7 @@ export const COMMENTS_CLIENTS_CANDIDATES_DATA: CardComment[] = [
   {
     comment: "I loved the process with Purrfect Hire! A process that understands the culture of companies and the personality of candidates allows cultural matches to be made from moment zero. In addition to that, candidates feel supported by a team that is attentive at every moment of the process.",
     name: "Andrés F. Hortúa",
-    img: "https://media.licdn.com/dms/image/D4E03AQEG1UhURKoOCg/profile-displayphoto-shrink_800_800/0/1710771595672?e=1716422400&v=beta&t=Yur89VhNWWr-zDBZkFkCJmptv2mIDBweWhliVLSWexI",
+    img: "https://media.licdn.com/dms/image/D4E03AQEG1UhURKoOCg/profile-displayphoto-shrink_200_200/0/1710771595672?e=1722470400&v=beta&t=8TFl-efqHnMBL3EvUHjysh3iDBpvENKyHytzWfO0iKk",
     country: "Colombia",
     role: "Head of Growth",
     company: "Bolsiyo 🇨🇴",
@@ -29,7 +29,7 @@ export const COMMENTS_CLIENTS_CANDIDATES_DATA: CardComment[] = [
   {
     comment: "I'm completely grateful with you. This has been an superb experience. I've never been in such a supportive process.",
     name: "Diana Arteaga",
-    img: "https://media.licdn.com/dms/image/C5603AQHLi5iBU_pkmw/profile-displayphoto-shrink_800_800/0/1595694262517?e=1716422400&v=beta&t=w8z7GLSVg7lp1du4nc4_l6ScI-fD7O5R8Bl5HOwZdQQ",
+    img: "https://media.licdn.com/dms/image/C5603AQHLi5iBU_pkmw/profile-displayphoto-shrink_200_200/0/1595694262517?e=1722470400&v=beta&t=qibXGiQzU3REReYOnpjNolt7GBxDKBW_JxGtQ6oFhSM",
     country: "Colombia",
     role: "Customer Service Lead",
     company: "Konta 🇲🇽",
