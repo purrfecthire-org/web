@@ -1,42 +1,50 @@
 export const jobPosition: JobPosition[] = [
   {
-    title: "Senior Sales Executive",
+    title: "Growth Marketing Lead",
     country: "México",
-    modality: "Híbrido + disponibilidad para viajar",
-    salary: "1700 - 2200 USD",
-    skills: ["Optimización de procesos", "Integración de cadenas logisticas", "Relacionamiento con clientes"],
-    link: "https://forms.gle/dx35Pi5XzPYirbcF9"
+    modality: "On Site: Ciudad de México",
+    salary: "80.000 - 100.000 MXN",
+    skills: ["Outbound B2B", "Fast thing", "Leadership"],
+    link: "https://www.linkedin.com/company/purrfect-hire/"
   },
   {
-    title: "Full Stack, frontend specialist",
-    country: "Colombia",
-    modality: "Remote",
-    salary: "3200 USD",
-    skills: ["React", "Node.js", "MySQL", "AWS", "VERCEL", "Svelte", "TypeScript"],
-    link: "https://forms.gle/f63qmbZRPvY3oPSSA"
-  },
-  {
-    title: "Full Stack Engineer",
-    country: "Latam",
-    modality: "Remote",
-    salary: "-",
-    skills: ["REST APIs Python", "Next.js", "AWS", "Django REST", "Docker"],
-    link: "https://forms.gle/SM49cvgSG66YAmLq5"
-  },
-  {
-    title: "Ejecutivo de Ventas de Acero",
+    title: "Account Executive (x2)",
     country: "México",
-    modality: "Trabajo en sitio",
-    salary: "40,000 - 50,000 MXN",
-    skills: ["Sales", "Comercial", "Steel Market", "Strategy"],
-    link: "https://forms.gle/S7ogC5GsVhv94QKc8"
+    modality: "Híbrido: Ciudad de México",
+    salary: "40.000 - 50.000 MXN",
+    skills: ["English B2+", "Sales B2B", "Startup Mindset", "Money driven", "CRMs "],
+    link: "https://www.linkedin.com/company/purrfect-hire/"
   },
   {
-    title: "Gerente de cadena de restaurantes",
-    country: "Colombia",
-    modality: "Presencial + disponibilidad para viajar",
-    salary: "$10.000 - 12.000 COP",
-    skills: ["Liderazgo", "Mercadeo", "Gestión gastronomica", "leer estados financieros"],
-    link: "https://forms.gle/w8ciWpYn6z7U3FYL8"
+    title: "Onboarding Specialist",
+    country: "México",
+    modality: "Híbrido: Ciudad de México",
+    salary: "30.000 - 45.000 MXN",
+    skills: ["Client Facing", "Leadership", "No-code tools", "Zappier", "English B2+"],
+    link: "https://www.linkedin.com/company/purrfect-hire/"
+  },
+  {
+    title: "Event Planer",
+    country: "México",
+    modality: "Híbrido: Ciudad de México",
+    salary: "800 USD",
+    skills: ["Marketing Specialist", "Sales", "Events", "Logistics"],
+    link: "https://www.linkedin.com/company/purrfect-hire/"
+  },
+  {
+    title: "Hunter de Factoring",
+    country: "Monterrey Guadalajara y CDMX",
+    modality: "On site",
+    salary: "1000 USD + Commissions",
+    skills: ["Leadership", "Sales", "Strategy", "Prospecting"],
+    link: "https://www.linkedin.com/company/purrfect-hire/"
+  },
+  {
+    title: "BDR",
+    country: "Monterrey Guadalajara y CDMX",
+    modality: "Híbrido: Ciudad de México",
+    salary: "18.000 + 22.000 MXN",
+    skills: ["Sales", "CRM", "HubSpot", "Comunication"],
+    link: "https://www.linkedin.com/company/purrfect-hire/"
   },
 ];

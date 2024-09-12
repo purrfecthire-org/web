@@ -2,7 +2,7 @@ export const COMMENTS_CLIENTS_CANDIDATES_DATA: CardComment[] = [
   {
     comment: "The follow-up and support you provide to candidates throughout the process really stand out. Kudos to the entire Purrfect Hire team for the service delivered, and to my recruiter for being always caring and helpful!.",
     name: "Mackley Carmona",
-    img: "https://media.licdn.com/dms/image/D4E03AQH0WXZ56bIAFA/profile-displayphoto-shrink_200_200/0/1703544619307?e=1722470400&v=beta&t=kZX2KpCIViNqncWx-ReimhHAu2VtXRYFJI9VuYDDOd4",
+    img: "https://media.licdn.com/dms/image/v2/D4E03AQHI0GQWbEC-Mg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1724724326377?e=1731542400&v=beta&t=0g3P5NUJsCPmib5OQ245sV8e9tR-K2P2svEKhDjtG6o",
     country: "Colombia",
     role: "Founder Engineer",
     company: "PONTE 🇺🇸",
@@ -11,7 +11,7 @@ export const COMMENTS_CLIENTS_CANDIDATES_DATA: CardComment[] = [
   {
     comment: "Purrfecthire accompanied me throughout my selection process, notifying me and reminding me of interview dates. I appreciate that they helped me find a position where I am happy and that meets my expectations.",
     name: "Sebasthian Saldana",
-    img: "https://media.licdn.com/dms/image/D4E03AQGvxD2tm7oo-Q/profile-displayphoto-shrink_200_200/0/1689990166577?e=1722470400&v=beta&t=pvd4_o-hQaI7lAAVHdYUHxj_jaFE-5MXJz1vjoCiRro",
+    img: "https://media.licdn.com/dms/image/v2/D4E03AQGvxD2tm7oo-Q/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1689990166577?e=1731542400&v=beta&t=AF9EnKPDBV3HJivvN6mCe4vB8MRC6U7D2GLpuuGxZS0",
     country: "México",
     role: "Accountant",
     company: "Konta 🇲🇽",
@@ -20,7 +20,7 @@ export const COMMENTS_CLIENTS_CANDIDATES_DATA: CardComment[] = [
   {
     comment: "I loved the process with Purrfect Hire! A process that understands the culture of companies and the personality of candidates allows cultural matches to be made from moment zero. In addition to that, candidates feel supported by a team that is attentive at every moment of the process.",
     name: "Andrés F. Hortúa",
-    img: "https://media.licdn.com/dms/image/D4E03AQEG1UhURKoOCg/profile-displayphoto-shrink_200_200/0/1710771595672?e=1722470400&v=beta&t=8TFl-efqHnMBL3EvUHjysh3iDBpvENKyHytzWfO0iKk",
+    img: "https://media.licdn.com/dms/image/v2/D4E03AQEG1UhURKoOCg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1710771595672?e=1731542400&v=beta&t=PTMp4tSEoJ9mhXHXmzuzbEEXPPX5ZbdflmxJajzQTks",
     country: "Colombia",
     role: "Head of Growth",
     company: "Bolsiyo 🇨🇴",
