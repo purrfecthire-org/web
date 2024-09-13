@@ -29,7 +29,7 @@ export const COMMENTS_CLIENTS_CANDIDATES_DATA: CardComment[] = [
   {
     comment: "I'm completely grateful with you. This has been an superb experience. I've never been in such a supportive process.",
     name: "Diana Arteaga",
-    img: "https://media.licdn.com/dms/image/C5603AQHLi5iBU_pkmw/profile-displayphoto-shrink_200_200/0/1595694262517?e=1722470400&v=beta&t=qibXGiQzU3REReYOnpjNolt7GBxDKBW_JxGtQ6oFhSM",
+    img: "https://media.licdn.com/dms/image/v2/C5603AQHLi5iBU_pkmw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1595694262517?e=1731542400&v=beta&t=-PEBfq6HQk_C5O4KSjj2Yk8cpa6FsUpBirUWG3d2kRQ",
     country: "Colombia",
     role: "Customer Service Lead",
     company: "Konta 🇲🇽",
@@ -41,7 +41,7 @@ export const COMMENTS_CLIENTS_CANDIDATES_DATA: CardComment[] = [
   {
     comment: "Thanks to the experience and industry knowledge that Purrfect Hire has, they got me the best candidates out there so the final selection was somehow easy.",
     name: "Camilo Rodríguez ",
-    img: "https://media.licdn.com/dms/image/D4D03AQH-Co5Tcn3aFw/profile-displayphoto-shrink_100_100/0/1703185394089?e=1722470400&v=beta&t=WZo4oHSWMDS09GGMeCMKrx2RQKW5M1lYn4uX99sGYXU",
+    img: "https://media.licdn.com/dms/image/v2/D4D03AQH-Co5Tcn3aFw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1703185394089?e=1731542400&v=beta&t=MDecYz3HWHpirP92zFfqa6mdJAli8205cSNEnQ6Rm3w",
     country: "Argentina",
     role: "Sales Director",
     company: "Ed-Machina 🇦🇷",
@@ -50,7 +50,7 @@ export const COMMENTS_CLIENTS_CANDIDATES_DATA: CardComment[] = [
   {
     comment: "The people we've hired through Purrfect Hire not only continue working and adding value, but they've also been promoted to roles of greater responsibility due to how well they've adapted to our way of working and our culture.",
     name: "Micaela Crosta",
-    img: "https://media.licdn.com/dms/image/C4D03AQFfc1Gs5AHBdQ/profile-displayphoto-shrink_100_100/0/1661192585705?e=1722470400&v=beta&t=YS-LFi9GTJkzX5tdH-N9xAoFG9UGZjrfNY5FcYTVEpk",
+    img: "https://media.licdn.com/dms/image/v2/C4D03AQFfc1Gs5AHBdQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1661192585705?e=1731542400&v=beta&t=cqUJPz3zMSnP0c6erwPjE5pWdTe6Z5i2xcFMppjhxaQ",
     country: "EEUU",
     role: "Head of Customer Operations",
     company: "OutDo 🇺🇸",
