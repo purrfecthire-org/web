@@ -14,7 +14,7 @@ export const FOOTER_LINKS = [
 
       {
         tittle: "Terms and Conditions",
-        link: "https://drive.google.com/file/d/1b3gi4lelrefD4CnZay4RZOZOiY1TwAM-/view?usp=sharing",
+        link: "https://drive.google.com/file/d/1fNU-dTsMx6ESvniqJmF9PBvJqrcTYWgl/view?usp=sharing",
       },
       {
         tittle: "About Purrfect Hire",
