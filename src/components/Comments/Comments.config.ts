@@ -2,7 +2,7 @@ export const COMMENTS_CLIENTS_CANDIDATES_DATA: CardComment[] = [
   {
     comment: "The follow-up and support you provide to candidates throughout the process really stand out. Kudos to the entire Purrfect Hire team for the service delivered, and to my recruiter for being always caring and helpful!.",
     name: "Mackley Carmona",
-    img: "https://media.licdn.com/dms/image/v2/D4E03AQHI0GQWbEC-Mg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1724724326377?e=1731542400&v=beta&t=0g3P5NUJsCPmib5OQ245sV8e9tR-K2P2svEKhDjtG6o",
+    img: "https://media.licdn.com/dms/image/v2/D4E03AQHuUIjTqGl4gg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1730821138618?e=1736985600&v=beta&t=bZHlox5Z7fAYB5vl9pwo17iIlrjyoXEpa0Uy3lfHkm4",
     country: "Colombia",
     role: "Founder Engineer",
     company: "PONTE 🇺🇸",
@@ -50,7 +50,7 @@ export const COMMENTS_CLIENTS_CANDIDATES_DATA: CardComment[] = [
   {
     comment: "The people we've hired through Purrfect Hire not only continue working and adding value, but they've also been promoted to roles of greater responsibility due to how well they've adapted to our way of working and our culture.",
     name: "Micaela Crosta",
-    img: "https://media.licdn.com/dms/image/v2/C4D03AQFfc1Gs5AHBdQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1661192585705?e=1731542400&v=beta&t=cqUJPz3zMSnP0c6erwPjE5pWdTe6Z5i2xcFMppjhxaQ",
+    img: "https://media.licdn.com/dms/image/v2/D4D03AQG66UJqROQjbg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1727676584998?e=1736985600&v=beta&t=OTxUeHWGaZYcUnKrclrvGbnHk30wx-7p8mRmyRt-iAQ",
     country: "EEUU",
     role: "Head of Customer Operations",
     company: "OutDo 🇺🇸",
