@@ -2,6 +2,12 @@
 export const IMAGES_CARROUSEL = [
     'addi.png',
     'cometa.png',
+    'spot2.jpg',
+    'mavi.png',
+    'solum.png',
+    'chief.png',
+    'optery.png',
+    'telepatia.png',
     'cuid.png',
     'infolaft.png',
     'konta.png',
@@ -13,12 +19,5 @@ export const IMAGES_CARROUSEL = [
     'rutter.png',
     'speakap.png',
     'trebol.png',
-    'viva.png',
-    // nuevos
-    'spot2.png',
-    'mavi.png',
-    'solum.png',
-    'chief.png',
-    'optery.png',
-    'telepatia.png'
+    'viva.png'
 ]
