@@ -5,6 +5,7 @@ interface JobPosition {
   salary: string;
   skills: string[];
   link: string;
+  image_url: string;
 }
 
 interface CarouselSettings {
