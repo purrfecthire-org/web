@@ -8,18 +8,18 @@ export const jobPosition: JobPosition[] = [
     link: "https://www.linkedin.com/company/purrfect-hire/"
   },
   {
-    title: "VP of Sales",
-    country: "México",
-    modality: "Hybrid: Ciudad de México",
-    salary: "90.000 - 120.000 USD",
-    skills: ["Sales Strategy", "Team Leadership", "Revenue Growth"],
+    title: "AI Engineer",
+    country: "USA",
+    modality: "Hybrid: San Francisco",
+    salary: "150.000 - 190.000 USD",
+    skills: ["AI", "Machine Learning", "Data Science"],
     link: "https://www.linkedin.com/company/purrfect-hire/"
   },
   {
     title: "Director of Customer Success",
-    country: "Argentina",
-    modality: "On site: Buenos Aires",
-    salary: "75.000 - 95.000 USD",
+    country: "USA",
+    modality: "Remote",
+    salary: "120.000 - 160.000 USD",
     skills: ["Customer Experience", "Team Management", "Data Analytics"],
     link: "https://www.linkedin.com/company/purrfect-hire/"
   },
@@ -32,11 +32,11 @@ export const jobPosition: JobPosition[] = [
     link: "https://www.linkedin.com/company/purrfect-hire/"
   },
   {
-    title: "Tech Lead",
-    country: "Colombia",
-    modality: "On site: Medellín",
-    salary: "80.000 - 105.000 USD",
-    skills: ["Technical Leadership", "System Architecture", "Team Mentoring"],
+    title: "AI Developer Junior",
+    country: "USA",
+    modality: "Remote",
+    salary: "100.000 - 140.000 USD",
+    skills: ["AI", "Machine Learning", "Data Science"],
     link: "https://www.linkedin.com/company/purrfect-hire/"
   },
   
