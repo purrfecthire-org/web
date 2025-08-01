@@ -5,8 +5,8 @@ export const jobPosition: JobPosition[] = [
     modality: "Hybrid: Bogotá",
     salary: "120.000 - 150.000 USD/yr",
     skills: ["Technical Strategy", "Team Leadership", "System Architecture"],
-    link: "https://yt3.googleusercontent.com/EPZEFd_lEbHQcAAesEsvRKoGneunmoGqu2vptExT4VFFqSucT-gjKeTCUMLeE6Jxtc2ApUvjLSw=s900-c-k-c0x00ffffff-no-rj",
-    image_url: "/logo.png"
+    link: "https://www.linkedin.com/company/purrfect-hire/",
+    image_url: "https://yt3.googleusercontent.com/EPZEFd_lEbHQcAAesEsvRKoGneunmoGqu2vptExT4VFFqSucT-gjKeTCUMLeE6Jxtc2ApUvjLSw=s900-c-k-c0x00ffffff-no-rj"
   },
   {
     title: "AI Engineer",
@@ -15,7 +15,7 @@ export const jobPosition: JobPosition[] = [
     salary: "150.000 - 190.000 USD/yr",
     skills: ["AI", "Machine Learning", "Data Science"],
     link: "https://www.linkedin.com/company/purrfect-hire/",
-    image_url: "/logo.png"
+    image_url: "https://telepatia.ai/assets/telepatia-logotype-v.png"
   },
   {
     title: "AI Developer Junior",
