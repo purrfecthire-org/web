@@ -47,7 +47,7 @@ export default function RolCards() {
     <section id="open-roles-section" className="m-0 lg:py-10">
       <div className="max-container padding-container">
         <h1 className="poppins py-8 text-indigo-950 font-extrabold text-center">
-          Open roles
+          Posiciones abiertas
         </h1>
         <Slider {...settings}>
           {jobPosition.map((rol, index) => (
@@ -82,11 +82,11 @@ const RolCard = ({ rol }: { rol: JobPosition }) => (
           type="button"
           onClick={(event) => redirect(event, rol.link)}
           className="text-white bg-indigo-950 font-medium rounded-lg px-5 pb-[12px] pt-[11px] mb-[25px] text-center hover:bg-indigo-500 hover:drop-shadow-md transition duration-300 ease-in-out">
-          Apply now
+          Aplicar
         </a>
       </div>
       <Image
-        src={"/logo.png"}
+        src={rol.image_url}
         width={75}
         height={75}
         alt="imagen"
