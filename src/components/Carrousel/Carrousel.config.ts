@@ -14,4 +14,11 @@ export const IMAGES_CARROUSEL = [
     'speakap.png',
     'trebol.png',
     'viva.png',
+    // nuevos
+    'spot2.png',
+    'mavi.png',
+    'solum.png',
+    'chief.png',
+    'optery.png',
+    'telepatia.png'
 ]
