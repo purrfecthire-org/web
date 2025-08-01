@@ -1,50 +1,131 @@
 export const jobPosition: JobPosition[] = [
   {
-    title: "Growth Marketing Lead",
-    country: "México",
-    modality: "On Site: Ciudad de México",
-    salary: "80.000 - 100.000 MXN",
-    skills: ["Outbound B2B", "Fast thing", "Leadership"],
+    title: "CTO",
+    country: "Colombia",
+    modality: "Hybrid: Bogotá",
+    salary: "120.000 - 150.000 USD",
+    skills: ["Technical Strategy", "Team Leadership", "System Architecture"],
     link: "https://www.linkedin.com/company/purrfect-hire/"
   },
   {
-    title: "Account Executive (x2)",
+    title: "VP of Sales",
     country: "México",
-    modality: "Híbrido: Ciudad de México",
-    salary: "40.000 - 50.000 MXN",
-    skills: ["English B2+", "Sales B2B", "Startup Mindset", "Money driven", "CRMs "],
+    modality: "Hybrid: Ciudad de México",
+    salary: "90.000 - 120.000 USD",
+    skills: ["Sales Strategy", "Team Leadership", "Revenue Growth"],
     link: "https://www.linkedin.com/company/purrfect-hire/"
   },
   {
-    title: "Onboarding Specialist",
-    country: "México",
-    modality: "Híbrido: Ciudad de México",
-    salary: "30.000 - 45.000 MXN",
-    skills: ["Client Facing", "Leadership", "No-code tools", "Zappier", "English B2+"],
+    title: "Director of Customer Success",
+    country: "Argentina",
+    modality: "On site: Buenos Aires",
+    salary: "75.000 - 95.000 USD",
+    skills: ["Customer Experience", "Team Management", "Data Analytics"],
     link: "https://www.linkedin.com/company/purrfect-hire/"
   },
   {
-    title: "Event Planer",
-    country: "México",
-    modality: "Híbrido: Ciudad de México",
-    salary: "800 USD",
-    skills: ["Marketing Specialist", "Sales", "Events", "Logistics"],
+    title: "Operations Lead",
+    country: "Chile",
+    modality: "Hybrid: Santiago",
+    salary: "70.000 - 90.000 USD",
+    skills: ["Process Optimization", "Team Leadership", "Project Management"],
     link: "https://www.linkedin.com/company/purrfect-hire/"
   },
   {
-    title: "Hunter de Factoring",
-    country: "Monterrey Guadalajara y CDMX",
+    title: "Tech Lead",
+    country: "Colombia",
+    modality: "On site: Medellín",
+    salary: "80.000 - 105.000 USD",
+    skills: ["Technical Leadership", "System Architecture", "Team Mentoring"],
+    link: "https://www.linkedin.com/company/purrfect-hire/"
+  },
+  
+  {
+    title: "Life Cycle Marketing Manager",
+    country: "Colombia",
     modality: "On site",
-    salary: "1000 USD + Commissions",
-    skills: ["Leadership", "Sales", "Strategy", "Prospecting"],
+    salary: "18.000 - 24.000 USD",
+    skills: ["Marketing Automation", "Data Analytics", "Growth Hacking"],
+    link: "https://www.linkedin.com/posts/daniela-d%C3%ADaz-010b9b243_buscas-un-trabajo-remoto-retador-y-con-activity-7355987705136095232-qyxK/?utm_source=share&utm_medium=member_ios&rcm=ACoAADyCl0wBofVz-JJP3zIKlIgIvlrcla17P7E"
+  },
+  {
+    title: "CISO",
+    country: "Colombia",
+    modality: "On site",
+    salary: "60.000 - 80.000 USD",
+    skills: ["Cybersecurity", "Risk Management", "Security Architecture"],
     link: "https://www.linkedin.com/company/purrfect-hire/"
   },
   {
-    title: "BDR",
-    country: "Monterrey Guadalajara y CDMX",
-    modality: "Híbrido: Ciudad de México",
-    salary: "18.000 + 22.000 MXN",
-    skills: ["Sales", "CRM", "HubSpot", "Comunication"],
+    title: "Business Developer",
+    country: "Colombia",
+    modality: "On site",
+    salary: "30.000 - 36.000 USD",
+    skills: ["Business Strategy", "Partnership Development", "Market Analysis"],
+    link: "https://www.linkedin.com/posts/kathforero_urgent-hiring-for-one-of-yc-backed-companies-activity-7355683884388229120-bk22?utm_source=share&utm_medium=member_desktop&rcm=ACoAADGO1qcBAXHsrRgwTOjiZHAvC9XPiA5Kqok"
+  },
+  {
+    title: "Fullstack Developer",
+    country: "Colombia",
+    modality: "On site",
+    salary: "72.000 - 96.000 USD",
+    skills: ["React", "Node.js", "TypeScript"],
+    link: "https://www.linkedin.com/posts/kathforero_urgent-hiring-for-one-of-yc-backed-companies-activity-7355683884388229120-bk22?utm_source=share&utm_medium=member_desktop&rcm=ACoAADGO1qcBAXHsrRgwTOjiZHAvC9XPiA5Kqok"
+  },
+  {
+    title: "Backend Engineer",
+    country: "Latam",
+    modality: "Remote",
+    salary: "24.000 - 27.600 USD",
+    skills: ["Python", "API Development", "Cloud Computing"],
+    link: "https://www.linkedin.com/posts/daniela-d%C3%ADaz-010b9b243_buscas-un-trabajo-remoto-retador-y-con-activity-7355987705136095232-qyxK/?utm_source=share&utm_medium=member_ios&rcm=ACoAADyCl0wBofVz-JJP3zIKlIgIvlrcla17P7E"
+  },
+  {
+    title: "Sr Full Stack Engineer",
+    country: "Latam",
+    modality: "Remote",
+    salary: "60.000 - 78.000 USD",
+    skills: ["React", "Node.js", "System Architecture"],
+    link: "https://www.linkedin.com/posts/daniela-d%C3%ADaz-010b9b243_buscas-un-trabajo-remoto-retador-y-con-activity-7355987705136095232-qyxK/?utm_source=share&utm_medium=member_ios&rcm=ACoAADyCl0wBofVz-JJP3zIKlIgIvlrcla17P7E"
+  },
+  {
+    title: "Data Analyst",
+    country: "Latam",
+    modality: "Remote",
+    salary: "24.000 - 30.000 USD",
+    skills: ["SQL", "Python", "Data Visualization"],
+    link: "https://www.linkedin.com/posts/daniela-d%C3%ADaz-010b9b243_buscas-un-trabajo-remoto-retador-y-con-activity-7355987705136095232-qyxK/?utm_source=share&utm_medium=member_ios&rcm=ACoAADyCl0wBofVz-JJP3zIKlIgIvlrcla17P7E"
+  },
+  {
+    title: "SDR",
+    country: "Colombia",
+    modality: "On site",
+    salary: "24.000 - 36.000 USD",
+    skills: ["Sales Development", "Lead Generation", "CRM Management"],
+    link: "https://www.linkedin.com/posts/daniela-d%C3%ADaz-010b9b243_buscas-un-trabajo-remoto-retador-y-con-activity-7355987705136095232-qyxK/?utm_source=share&utm_medium=member_ios&rcm=ACoAADyCl0wBofVz-JJP3zIKlIgIvlrcla17P7E"
+  },
+  {
+    title: "Marketing Manager",
+    country: "Colombia",
+    modality: "On site",
+    salary: "18.000 - 24.000 USD",
+    skills: ["Digital Marketing", "Content Strategy", "Social Media"],
+    link: "https://www.linkedin.com/posts/daniela-d%C3%ADaz-010b9b243_buscas-un-trabajo-remoto-retador-y-con-activity-7355987705136095232-qyxK/?utm_source=share&utm_medium=member_ios&rcm=ACoAADyCl0wBofVz-JJP3zIKlIgIvlrcla17P7E"
+  },
+  {
+    title: "Sr. Backend Engineer",
+    country: "Colombia",
+    modality: "On site",
+    salary: "60.000 - 90.000 USD",
+    skills: ["System Architecture", "Microservices", "Team Leadership"],
     link: "https://www.linkedin.com/company/purrfect-hire/"
   },
+  {
+    title: "React Native Developer",
+    country: "Latam",
+    modality: "Remote",
+    salary: "24.000 - 36.000 USD",
+    skills: ["React Native", "Mobile Development", "JavaScript", "Redux", "API Integration"],
+    link: "https://www.linkedin.com/company/purrfect-hire/"
+  }
 ];
