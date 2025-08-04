@@ -47,7 +47,7 @@ export default function RolCards() {
     <section id="open-roles-section" className="m-0 lg:py-10">
       <div className="max-container padding-container">
         <h1 className="poppins py-8 text-indigo-950 font-extrabold text-center">
-          Posiciones abiertas
+          Open Roles
         </h1>
         <Slider {...settings}>
           {jobPosition.map((rol, index) => (

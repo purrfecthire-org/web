@@ -2,7 +2,6 @@
 export const IMAGES_CARROUSEL = [
     'addi.png',
     'cometa.png',
-    'spot2.jpg',
     'mavi.png',
     'solum.png',
     'cheaf.png',
