@@ -18,5 +18,7 @@ export const IMAGES_CARROUSEL = [
     'rutter.png',
     'speakap.png',
     'trebol.png',
-    'viva.png'
+    'viva.png',
+    'heron.png',
+    'nue.svg'
 ]

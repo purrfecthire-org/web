@@ -10,23 +10,31 @@ export default function MainContent() {
       <div className="padding-container max-container flex flex-wrap items-center justify-center mt-10">
         <div className="mb-14 lg:mb-0 lg:w-1/2">
           <h1 className="poppins max-w-xl leading-none text-indigo-950 font-extrabold text-center lg:text-left lg:leading-tight mb-6">
-            Culture-driven hiring for high-impact results
+            Skills get people hired.
+            <span className="text-indigo-500 block">Culture fit makes them stay.</span>
           </h1>
           <p className="poppins max-w-xl text-center text-gray-500 lg:text-left lg:max-w-md">
-            We&#39;re revolutionizing the job search and talent
-            acquisition landscape. Through our candidate-centric
-            approach, our platform is reshaping the hiring journey,
-            emphasizing cultural compatibility and meaningful human
-            connections.
+            We place senior LATAM talent at YC and a16z startups where getting the hire wrong costs months of runway you can&apos;t recover. 160+ placements. 80% retention at 24 months. Built on human judgment, not automated volume.
           </p>
-          <div className="flex justify-center mt-14 lg:justify-start">
+          <div className="flex flex-wrap gap-4 justify-center mt-14 lg:justify-start">
             <button
               type="button"
               className="text-white bg-indigo-950 font-bold text-lg rounded-xl pb-3 pt-3 pl-6 pr-6 text-center hover:bg-indigo-500 hover:drop-shadow-md transition duration-300 ease-in-out"
               onClick={(event) =>
                 redirect(
                   event,
-                  "https://calendly.com/kate-forero/"
+                  "https://forms.gle/MhgHJ9D1PrbD2ksm7"
+                )
+              }>
+              Get your first match
+            </button>
+            <button
+              type="button"
+              className="text-white bg-indigo-950 font-bold text-lg rounded-xl pb-3 pt-3 pl-6 pr-6 text-center hover:bg-indigo-500 hover:drop-shadow-md transition duration-300 ease-in-out"
+              onClick={(event) =>
+                redirect(
+                  event,
+                  "https://forms.gle/coJZM83rMV1GDYF79"
                 )
               }>
               Talk to sales

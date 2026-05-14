@@ -8,20 +8,18 @@ import {
 
 export const FOOTER_LINKS = [
   {
-    title: "Learn More",
+    title: "Links",
     links: [
-
-
       {
         tittle: "Terms and Conditions",
         link: "https://drive.google.com/file/d/1mW5LXeQNXJaeKxV9rzkTJMOY0LPFA5bg/view?usp=sharing",
       },
       {
-        tittle: "About Purrfect Hire",
-        link: "#about-section",
+        tittle: "LinkedIn",
+        link: "https://www.linkedin.com/company/purrfect-hire/mycompany/",
       },
       {
-        tittle: "Open roles",
+        tittle: "Open Roles",
         link: "#open-roles-section",
       },
     ],
@@ -31,8 +29,7 @@ export const FOOTER_LINKS = [
 export const FOOTER_CONTACT_INFO = {
   title: "Contact Us",
   links: [
-    { label: "For Companies", value: "finance@purrfecthire.com" },
-    { label: "For Candidates", value: "hiring@purrfecthire.com" },
+    { label: "Candidates", value: "hiring@purrfecthire.com" },
   ],
 };
 

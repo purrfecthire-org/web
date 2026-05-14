@@ -18,10 +18,16 @@ export default function AboutUsSection() {
         </div>
         <div className="mb-14 lg:mb-0 lg:w-1/2 flex flex-col">
           <h1 className="poppins text-indigo-950 font-extrabold text-center lg:text-right  mb-6">
-            About us
+            About Purrfect Hire
           </h1>
           <p className="poppins text-gray-500 text-center lg:text-right  mb-5">
-          Our team comprises passionate and dedicated individuals committed to excellence in all endeavors. We deeply value the synergy between candidates and companies, fostering robust and successful teams. Our mission extends beyond delivering exceptional talent; we aim to provide our clients with an unparalleled hiring journey.
+            We&apos;re a boutique hiring firm built specifically for founders at YC, a16z, and Sequoia portfolio companies. We work the senior hires that decide whether a company scales or stalls. Before opening pipeline, we spend time calibrating against the founder&apos;s real culture, not the JD. Then we train the talent we place against that exact signal.
+          </p>
+          <p className="poppins text-gray-500 text-center lg:text-right  mb-5">
+            The result: 160+ placements, 80% retention at 24 months, and a closed-loop system where what we learn from founders sharpens how we train talent, and what we learn from talent sharpens who we place.
+          </p>
+          <p className="poppins text-gray-500 text-center lg:text-right  mb-5">
+            In a market scaling volume without calibration, we operate the opposite way: source less, calibrate more, consult as peers.
           </p>
         </div>
       </div>

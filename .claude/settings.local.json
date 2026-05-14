@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/_PH_DEV//**)",
+      "Read(//c/_PH_DEV/**)",
+      "Bash(python3 -c ':*)"
+    ]
+  }
+}

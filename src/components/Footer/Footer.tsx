@@ -44,7 +44,7 @@ const Footer = () => {
                 {FOOTER_CONTACT_INFO.links.map((link, index) => (
                   <>
                     <Link
-                      href={`mailto:${link.value}`}
+                      href={link.value.includes('@') ? `mailto:${link.value}` : `tel:${link.value}`}
                       key={`${link.label}-${index}`}
                       className="flex gap-4 flex-col lg:flex-row">
                       <span className="poppins font-bold whitespace-nowrap">
@@ -73,6 +73,9 @@ const Footer = () => {
               </FooterColumn>
             </div>
           </div>
+        </div>
+        <div className="border-t border-gray-200 pt-6 text-center">
+          <p className="poppins text-sm text-gray-400">© 2026 Purrfect Hire</p>
         </div>
       </div>
     </footer>
