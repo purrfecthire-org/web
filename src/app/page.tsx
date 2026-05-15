@@ -10,7 +10,6 @@ import CommentJoset from "../components/CommentJoset/CommentJoset";
 import OurPerks from "../components/OurPerks/OurPerks";
 import OfferAcceleration from "../components/OfferAcceleration/OfferAcceleration";
 import Why2026 from "../components/Why2026/Why2026";
-import FinalCTA from "../components/FinalCTA/FinalCTA";
 
 export default function Home() {
   return (
@@ -28,7 +27,6 @@ export default function Home() {
       />
       <OurPerks />
       <Why2026 />
-      <FinalCTA />
     </>
   );
 }

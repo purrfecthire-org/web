@@ -4,6 +4,13 @@
       "Read(//c/_PH_DEV//**)",
       "Read(//c/_PH_DEV/**)",
       "Bash(python3 -c ':*)"
+    ],
+    "additionalDirectories": [
+      "C:\\_PH_DEV\\web-es\\src\\components\\Footer",
+      "C:\\_PH_DEV\\web-es\\src\\components\\OfferAcceleration",
+      "C:\\_PH_DEV\\web-es\\src\\components\\Why2026",
+      "C:\\_PH_DEV\\web-es\\src\\components\\FinalCTA",
+      "c:\\_PH_DEV\\web-es\\src\\components\\header"
     ]
   }
 }

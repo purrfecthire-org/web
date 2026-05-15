@@ -50,7 +50,7 @@ export default function NavBar() {
                 </a>
 
                 <a
-                  href="https://forms.gle/tZ1mtHys6kLoYQZc8"
+                  href="https://docs.google.com/forms/d/e/1FAIpQLSdg6RcNi_5gQFdlM1nyg4Q15L-LSrD2vkdT3MnZaQWFRlhdxw/viewform?usp=header"
                   target="_blank"
                   className="text-indigo-800 font-medium text-lg hover:bg-white rounded-lg p-2">
                   Careers
@@ -130,7 +130,7 @@ export default function NavBar() {
                 About
               </a>
               <a
-                href="https://forms.gle/tZ1mtHys6kLoYQZc8"
+                href="https://docs.google.com/forms/d/e/1FAIpQLSdg6RcNi_5gQFdlM1nyg4Q15L-LSrD2vkdT3MnZaQWFRlhdxw/viewform?usp=header"
                 className="text-indigo-800 font-medium text-lg block hover:bg-white rounded-lg p-2">
                 Careers
               </a>

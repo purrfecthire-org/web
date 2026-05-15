@@ -147,7 +147,7 @@ export default function OfferAcceleration() {
             onClick={(event) =>
               redirect(
                 event,
-                "https://docs.google.com/forms/d/1pwNavF4nFwHlFsryQtPzhQ2smHWkRoXTdwfW1p43Rlg",
+                "https://tally.so/r/RG02Gl",
               )
             }
           >

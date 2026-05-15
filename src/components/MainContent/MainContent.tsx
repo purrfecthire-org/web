@@ -16,18 +16,7 @@ export default function MainContent() {
           <p className="poppins max-w-xl text-center text-gray-500 lg:text-left lg:max-w-md">
             We place senior LATAM talent at YC and a16z startups where getting the hire wrong costs months of runway you can&apos;t recover. 160+ placements. 80% retention at 24 months. Built on human judgment, not automated volume.
           </p>
-          <div className="flex flex-wrap gap-4 justify-center mt-14 lg:justify-start">
-            <button
-              type="button"
-              className="text-white bg-indigo-950 font-bold text-lg rounded-xl pb-3 pt-3 pl-6 pr-6 text-center hover:bg-indigo-500 hover:drop-shadow-md transition duration-300 ease-in-out"
-              onClick={(event) =>
-                redirect(
-                  event,
-                  "https://forms.gle/MhgHJ9D1PrbD2ksm7"
-                )
-              }>
-              Get your first match
-            </button>
+          <div className="flex justify-center mt-14 lg:justify-start">
             <button
               type="button"
               className="text-white bg-indigo-950 font-bold text-lg rounded-xl pb-3 pt-3 pl-6 pr-6 text-center hover:bg-indigo-500 hover:drop-shadow-md transition duration-300 ease-in-out"
